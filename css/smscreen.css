@@ -1,0 +1,151 @@
+@media screen and (max-width: 980px) {
+
+  .iconbody {
+    width: 25%;
+  }
+
+  .sm_iconbody {
+    width: 50px;
+  }
+
+  .search-bar {
+    bottom: 2px;
+  }
+
+  .galimg img {
+    width: 150px;
+    height: auto;
+    margin: 10px 3% 10px 3%;
+  }
+
+  .galbody {
+    height: auto;
+    padding: 10px 0 20px 0;
+  }
+
+  .mainbody {
+    height: auto;
+    padding-bottom: 30px;
+  }
+
+  .hdtxt {
+    font-size: 30px;
+  }
+
+  .hdtxt2 {
+    font-size: 25px;
+  }
+
+  .hdtxt3 {
+    font-size: 20px;
+  }
+
+  .abttxt {
+    height: auto;
+    min-height: 400px;
+    max-width: 70%;
+
+
+
+  }
+
+
+  .but {
+    width: 250px;
+    height: 100px;
+  }
+
+  header a button {
+    font-size: 13px;
+  }
+
+
+  .slider1txt {
+    margin-top: 100px;
+    font-size: 40px;
+  }
+
+  .slider2txt {
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 70px;
+    font-family: 'Akaya Telivigala', cursive;
+  }
+
+  .slider2txt h1 {
+    text-decoration: overline;
+    text-indent: 20px;
+    font-size: 30px;
+
+  }
+
+  .slider2txt h2 {
+    text-align: right;
+    padding-top: 30px;
+    font-family: 'Akaya Telivigala', cursive;
+  }
+
+  .slider3txt {
+    margin-top: 170px;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: 'Dancing Script', cursive;
+  }
+
+
+  .slider4txt {
+    font-size: 40px;
+
+    margin-top: 70px;
+  }
+
+
+  .slider5txt {
+    float: right;
+    text-align: right;
+    font-size: 30px;
+    margin-top: 80px;
+  }
+
+
+  .Product-show-board {
+    flex-direction: column;
+  }
+
+
+  .prd-abt-show {
+    left: 1px;
+    position: static;
+    top: 1px;
+  }
+
+  header nav {
+
+    display: block;
+    width: 47%;
+    height: 100px;
+    background: linear-gradient(45deg, black, transparent 100px);
+    position: absolute;
+    list-style: none;
+    line-height: 30px;
+    top: 0;
+    justify-content: center;
+    word-wrap: break-word;
+    left: 3px;
+    overflow: hidden;
+    transition: all 0.5s cubic-bezier(0.075, 0.82, 0.165, 1);
+
+  }
+
+  header nav:hover {
+    
+  }
+
+ 
+  header nav a {
+
+    text-align: center;
+    flex-shrink: 0;
+    display: inline-block;
+
+  }

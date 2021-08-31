@@ -1,0 +1,23 @@
+@media screen and (min-width:1000px){
+  .side-nav{
+    width: 25%;
+
+  }
+  .prd-info-txt{
+    font-size: 15px;
+  }
+.sm_iconbody{
+  display: none;
+  width: 75%;
+
+
+}
+
+.mainbody{
+  position: absolute;
+  top: 60px;
+  left: 270px;
+  max-width: 85%;
+  min-width: 75%;
+}
+

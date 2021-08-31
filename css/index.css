@@ -1,0 +1,350 @@
+html{
+	scroll-behavior: smooth;
+}
+
+.bodywrapper{
+	transform: translateY(100px);
+}
+.mainbody{
+	overflow: hidden;
+	width: 75%;
+	min-height: 400px;
+}
+*{
+	margin:0;
+	padding:0;
+}
+
+.text-left{
+	text-align: left;
+}
+
+.text-right{
+	text-align: right;
+}
+body{
+	margin:0;
+	font-family: 'Akaya Telivigala', cursive;
+	width: 100%;
+	overflow-x: hidden;
+
+}
+
+
+.mainbody{
+	
+	width: 100%;
+	margin: 0;
+}
+/* this is for small device */
+/*and also for the first background body*/
+
+.welbody{
+	width:100%;
+	height:1650px;
+	background:linear-gradient(rgba(0,0,0,0.5),#FBB917),url("../img/bg1.png");
+	background-repeat:no-repeat;
+	background-position: center ;
+	background-size:cover;
+	padding-top:250px;
+}
+
+.abtbody{
+	width:100%;
+	padding: 20px 0;
+	background:linear-gradient(rgba(0,0,0,0.5),#FBB917),url("../img/bg2.png");
+	background-repeat:no-repeat;
+	background-position: center;
+	background-size:cover;
+	padding-top:25%;
+}
+
+.abttxt{
+	border:solid 2px #FBB917;
+	background-color:transparent;
+	font-size:20px;
+	text-align:left;
+	color:#FBB917;
+	width:80%;
+
+	height:1300px;
+	padding:40px;
+	font-weight:bold;
+	word-spacing: 15px;
+}
+
+.galbody{
+	width:100%;
+	padding: 20px 0;
+	background:linear-gradient(rgba(0,0,0,0.5),#FBB917),url("../img/bg3.png");
+	background-repeat:no-repeat;
+	background-position: center;
+	background-size:cover;
+	padding-top:25%;
+}
+
+.galimg img{
+	margin-left:30px;
+	margin-right:30px;
+	opacity:80%;
+	margin-top:100px;
+}
+
+.galimg{
+	margin-top:100px;
+
+}
+
+.whybody{
+	width:100%;
+	padding: 20px 0;
+	background:linear-gradient(rgba(0,0,0,0.5),#FBB917),url("../img/bg2.png");
+	background-repeat:no-repeat;
+	background-position: center;
+	background-size:cover;
+	padding-top:25%;
+}
+
+.cntbody{
+	width:100%;
+	padding: 10px 0 20px 0;
+	background:linear-gradient(rgba(0,0,0,0.5),#FBB917),url("../img/bg1.png");
+	background-repeat:no-repeat;
+	background-position: center;
+	background-size:cover;
+	padding-top:25%;
+}
+
+/* can be used in all type of screen size*/
+
+header{
+
+	height:100px;
+	position:fixed;
+	background-color:black;
+	Z-index:5;
+	text-align: center;
+	width: 100%;
+
+}
+
+header nav {
+	text-align:left;
+	position: relative;
+	top: 35%;
+	color:#FBB917;
+	word-spacing: 15px;
+	left:5%;
+}
+
+.search-bar{
+	position: absolute;
+	right: 3%;
+	display:flex;
+	float:right;
+	top: 35%;
+	height:auto;
+	background:#fff;
+	height:30px;
+	width:10rem;
+	padding:5px 3px;
+}
+.search-bar input{
+	padding: 0px 8px;
+	position: absolute;
+	height:100%;
+	width:80%;
+	left:0;
+	top:0;
+
+}
+.search-bar input, .search-bar button{
+	
+	background:transparent;
+	border: none;
+
+
+}
+
+.search-bar button{
+	padding: 0px 8px;
+	position: absolute;
+	height:100%;
+	width:15%;
+	right:10px;
+	border-collapse: collapse;
+	border-left: solid 2px black;
+	top:0;
+	
+	
+}
+header a{
+	color:#FBB917;
+
+}
+
+header a button{
+	background-color:transparent;
+	color:#FBB917;
+	border: none;
+	
+ font-family: 'Akaya Telivigala', cursive;
+	font-weight:bold;
+	transition:all .7s;
+	height:0px;
+	padding: 0px 3px 3px 3px;
+	text-transform: capitalize;
+
+}
+
+
+header nav button:hover{
+	
+	color:goldenrod;
+	border-bottom: solid 3px #FBB917;
+	height:20px;
+	
+}
+.hdtxt{
+	color:#FBB917;
+	top:15%;
+
+	font-family: 'Dancing Script', cursive;
+	font-size:40px;
+
+}
+
+.hdtxt2{
+	color:#FBB917;
+	top:15%;
+
+	font-size:35px;
+
+}
+.hdtxt3{
+	color:#FBB917;
+	top:15%;
+
+	font-size:40px;
+
+}
+
+#la{
+		border-right:solid 0px #FBB917;
+}
+
+
+.but{
+	background-color:transparent;
+	color:#FBB917;
+	width:500px;
+	height:250px;
+
+	font-size:20px;
+	border:solid 3px #FBB917;
+	border-radius:140px;
+	transition-property:all;
+	transition-duration:.5s;
+
+}
+
+.but:hover{
+	background-color:#FBB917;
+	color:#CE6E6E;
+	border:solid 3px #FBB917;
+	border-radius:140px;
+
+}
+
+
+
+.iconbody{
+	border:solid 2px #FBB917;
+	width:150px;
+	margin:10%;
+	padding:10px;
+
+	background-color:transparent;
+	transition-property:all;
+	transition-duration:1s;
+}
+@media screen and (min-width:980px) {
+	.iconbody{
+		border:solid 2px #FBB917;
+		width:150px;
+		margin:3% 10%;
+
+	}
+
+	.sm_iconbody{
+		width:50px;
+
+	}
+}
+.iconbody:hover{
+
+	background-color:#FBB917;
+
+
+}
+
+.sm_iconbody{
+	width:100px;
+	padding: 5px;
+	margin:3%;
+	border:solid 2px black;
+}
+.sm_iconbody:hover{
+
+	background-color:#CFA112;
+
+}
+
+.xo{
+	margin-top:60px;
+}
+ .morebtn{
+ 	width:300px;
+ 	text-align:center;
+ 	background-color:transparent;
+ 	border:solid 3px #CFA112;
+ 	color:black;
+ 	font-family: 'Oi', cursive;
+ 	height:100px;
+ 	padding:10px;
+ 	font-size:50px;
+ 	font-weight:bold;
+ 	border-radius:30px;
+ 	margin-top:30px;
+ }
+
+.morebtn:hover{
+ 	width:300px;
+ 	text-align:center;
+ 	background-color:#90660B;
+ 	border:solid 3px black;
+ 	color:#FBB917;
+ 	font-family: 'Dancing Script', cursive;
+
+ }
+
+
+#moregal{
+	transform:rotate(270deg);
+	float:right;
+	
+}
+
+
+.social_icon{
+	width: 80%;
+	height: 80%;
+}
+
+
+footer{
+	width:100%;
+	background: black;
+	min-height: 200px;
+	
+}

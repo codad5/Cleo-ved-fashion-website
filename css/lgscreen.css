@@ -1,0 +1,18 @@
+@media screen and (min-width:980px) {
+    .prd-abt-show{
+    left: 20px;
+    
+    top: 20px;
+}
+
+.prd-abt-show ul{
+  left: 20px;
+  
+}
+.order-form-box{
+   
+    left: 20px;
+}
+
+
+}

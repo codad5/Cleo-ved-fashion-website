@@ -1,0 +1,202 @@
+#ordbtn {
+	width: 20px;
+	height: 20px;
+	transform: translateY(3px);
+}
+
+.zzz {
+	float: left;
+	width: 400px;
+	overflow: hidden;
+
+	box-shadow: -10px -10px 15px rgba(225, 225, 225, 0.12), 5px 5px 15px #FBB917;
+	margin: 35px;
+
+}
+
+.xop {
+	width: 100%;
+	box-shadow: inlet -10px -10px 25px #FBB917;
+
+}
+
+
+
+
+.click a {
+	visibility: collapse;
+	transition: all 2s;
+}
+
+.bri {
+	width: 90%;
+	height: 200px;
+	position: absolute;
+	background-color: grey;
+	position: absolute;
+	visibility: hidden;
+	overflow: hidden;
+	transition-property: all;
+	transition-duration: 1.8s;
+
+
+}
+
+.bri:hover {
+	opacity: 0.8;
+}
+
+.bri:hover .click {
+	transform: rotate(315deg);
+	width: 200px;
+	font-size: 30px;
+}
+
+
+.galcnt {
+	width: 80%;
+	position: absolute;
+	left: 8%;
+	display: flex;
+}
+
+
+.gallery-cnt {
+	width: 100%;
+	max-width: 800px;
+	display: flex;
+	align-content: stretch;
+	justify-content: center;
+	flex-direction: column;
+	flex-flow: wrap;
+	border: solid 1px #000;
+	margin-bottom: 100px;
+
+
+
+}
+
+.gal-img-cnt {
+	position: relative;
+
+	width: 25%;
+	height: 300px;
+	max-height: 300px;
+	display: flex;
+	align-items: center;
+	justify-content: stretch;
+	flex-direction: column;
+	padding: 0px 1px 0px 1px;
+	overflow: hidden;
+
+	min-width: 150px;
+	max-width: 250px;
+
+	text-transform: uppercase;
+	margin: 1rem;
+
+
+	flex-shrink: 0;
+	border-radius: 2px;
+	backdrop-filter: blur(10px);
+	border: solid 1px black;
+	font-family: "Helvetica Neue", Helvetica;
+
+
+
+}
+
+.gal-img-cnt prdname {
+	font-weight: 700;
+
+}
+
+.gal-img-cnt .prd-img {
+	border-radius: 1px;
+	object-fit: fill;
+	filter: saturate(80%) brightness(80%);
+	transition:all 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+	
+}
+
+
+@media screen and (min-width:980px) {
+
+
+	.click {
+		top: 40%;
+		left: 30%;
+	}
+	.gal-img-cnt .prd-img:hover {
+	    position: sticky;
+    filter: saturate(180%) brightness(80%);
+    z-index: 20;
+    width: 200%;
+    height: 150%;
+	
+	
+}
+
+.gal-img-cnt:hover{
+	overflow:visible;
+	display:inline-block;
+	z-index: 13;
+	
+	
+}
+
+.gal-img-cnt:hover .gal-price-cover{
+	background-color: azure;
+	
+} 
+
+}
+
+
+
+.gal-img-cnt .prd-img {
+	width: 100%;
+	height: 85%;
+}
+
+.gal-price-cover {
+	width: 100%;
+	text-align: right;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	border-top: solid 1px black;
+	height: 15%;
+	font-size: small;
+}
+
+/*  */
+
+
+
+
+
+.gal-price-cover a {
+	visibility: visible;
+	text-decoration: none;
+	color: inherit;
+	color: #FBB917;
+	font-weight: 900;
+	padding-right: 3px;
+
+
+}
+
+
+
+.gal-price-cover span {
+	visibility: visible;
+	text-decoration: none;
+	color: inherit;
+	color: #FBB917;
+	font-weight: 200;
+	padding-left: 3px;
+	text-align: left;
+
+
+}

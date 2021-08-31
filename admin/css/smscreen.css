@@ -1,0 +1,40 @@
+@media screen and (max-width:480px){
+  header a{
+    visibility: hidden;
+  }
+}
+@media screen and (max-width: 980px) and (orientation: landscape){
+  .side-nav{
+    padding-top:2%;
+     width: 45%;
+    
+    display: none;
+    z-index: 1;
+    overflow-y: scroll;
+  }
+
+}
+@media screen and (max-width:980px) and (orientation: portrait){
+  .side-nav{
+    width: 45%;
+    padding-top: 15%;
+    display: none;
+    z-index: 1;
+    overflow-y: scroll;
+    
+
+
+
+  }
+  .mainbody{
+    width: 100%;
+    position: absolute;
+    top: 60px;
+    
+  }
+
+
+
+.u-table-cell{
+  color:black;
+}

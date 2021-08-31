@@ -1,0 +1,164 @@
+.Product-show{
+  display:flex;
+  
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(45deg,#FBB917,#555);
+  flex-wrap: wrap;
+  overflow-x: hidden;
+
+}
+
+.prd-img-show{
+  flex-grow: 1;
+  overflow :hidden;
+  min-width:300px;
+  min-height:500px;
+
+
+}
+
+.prd-img-show img{
+  
+  width: 100%;
+  height: 100%;
+  border-radius:2rem;
+  max-width: 400px;
+  max-height:500px;
+
+}
+.Product-show-board{
+  display:flex;
+  background: white;
+  
+  
+  min-width:60%;
+  max-width:90%;
+  background:linear-gradient(to right bottom , rgba(255,255,255,0.7), rgba(255,255,255,0.3));
+  border-radius: 2rem;
+  padding: 15px 8px 25px 8px;
+  justify-content: space-between;
+  
+  
+  overflow-x: hidden;
+  
+  
+}
+
+.prdheader{
+  display:block;
+  text-align:center;
+  position:relative;
+  width:100%;
+  
+  
+  
+}
+.prd-abt-show{
+  display:flex;
+  flex-grow: 2;
+  overflow:hidden;
+  flex-direction: column;
+  
+
+
+}
+.prd-abt-show ul {
+  display:flex;
+  flex-wrap: wrap;
+  position: relative;
+  
+}
+
+.prd-abt-show ul li {
+  display: inline;
+  width:140px;
+  padding:0px 2px 2px 0px;
+  border:solid 5px #FBB917;
+  border-collapse: collapse;
+  color: #555;
+  font-family: sans-serif;
+  font-weight: bolder;
+  text-align: center;
+  
+  
+  
+}
+
+
+
+
+.tag-info{
+  
+  padding:1px 3px;
+  display:block;
+  text-align: start;
+  height: 20px;
+  word-wrap: normal;
+  width:100%;
+  background:#FBB917;
+
+}
+.order-form-box{
+  width: 100%;
+  
+  position: relative;
+  display:flex;
+  flex-wrap: wrap;
+  overflow-y: scroll;
+  
+
+
+}
+.order-form-box em{
+  font-size:x-small;
+  display: block;
+  height:wrap-content;
+}
+
+.order-form-box em input{
+  display: inline;
+  width: fit-content;
+}
+
+.order-form-box .order-input-info{
+  
+  display: block;
+  font-size:small ;
+  margin-bottom: 4px;
+ 
+}
+.order-form-box input, .order-form-box select{
+  margin-bottom: 5px;
+  width: 100%;
+  padding:7px;
+  border: none;
+  border-bottom: solid 4px navajowhite;
+  background:transparent;
+  
+}
+.org-price{
+  text-decoration: line-through;
+  color: rgba(221, 84, 30, 0.712)
+}
+
+#subtn{
+  width:200px;
+  padding:7px 9px;
+  border-radius:20px;
+  border: none;
+  background:linear-gradient(to right bottom , rgba(224, 196, 32, 0.7), rgba(61, 49, 33, 0.9));
+  transition: all .6s;
+  transform: translateY(2px);
+  
+  zoom: 1;
+  color:white;
+  z-index:3;
+
+}
+#subtn:hover{
+  background:linear-gradient(to left bottom , rgba(224, 196, 32, 0.7), rgba(61, 49, 33, 0.9));
+  transform: translateY(3px);
+
+}

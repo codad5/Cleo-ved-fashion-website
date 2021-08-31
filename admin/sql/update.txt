@@ -1,0 +1,1683 @@
+================================================================
+
+Updated  Coated in black on ''2021-06-29 09:53:27am'' by admin
+*********************************************** 
+>> Modified prdName from \Coated in black\ to Coated in black
+
+
+>> Modified prdName from \Coated in black\ to Coated in black
+
+
+>> Modified qtyleft from \0\ to 0
+
+
+>> Modified prddis from \2\ to 1
+
+
+>> Modified prdsize from \44nb\ to 38
+
+
+================================================================
+
+
+
+================================================================
+
+Updated  Coated in black on ''2021-06-29 09:54:28am'' by admin
+*********************************************** 
+>> Modified prdName from \Coated in black\ to Coated in black
+
+
+>> Modified prdprice from \12000\ to Coated in black
+
+
+>> Modified qtyleft from \0\ to 0
+
+
+>> Modified prddis from \1\ to 1
+
+
+>> Modified prdsize from \38\ to 38
+
+
+================================================================
+
+
+
+================================================================
+
+Updated  Coated in black on ''2021-06-29 09:55:30am'' by admin
+*********************************************** 
+>> Modified prdName from \Coated in black\ to Black shade
+
+
+>> Modified prdprice from \0\ to 10000
+
+
+>> Modified qtyleft from \0\ to 0
+
+
+>> Modified prddis from \1\ to 1
+
+
+>> Modified prdsize from \38\ to 38
+
+
+================================================================
+
+
+
+================================================================
+
+Updated  Black shade on ''2021-06-29 09:59:35am'' by admin
+*********************************************** 
+>> Modified prdName from \Black shade\ to 
+
+
+>> Modified prdprice from \10000\ to 
+
+
+>> Modified qtyleft from \0\ to 
+
+
+>> Modified prddis from \1\ to 
+
+
+>> Modified prdsize from \38\ to 
+
+
+================================================================
+
+
+
+================================================================
+
+Updated   on ''2021-06-29 10:03:16am'' by admin
+*********************************************** 
+>> Modified prdName from \\ to 
+
+
+>> Modified prdprice from \0\ to 0
+
+
+>> Modified qtyleft from \0\ to 0
+
+
+>> Modified prddis from \0\ to 0
+
+
+>> Modified prdsize from \\ to 
+
+
+================================================================
+
+
+
+================================================================
+
+Updated   on ''2021-06-29 10:03:17am'' by admin
+*********************************************** 
+>> Modified prdName from \\ to 
+
+
+>> Modified prdprice from \0\ to 0
+
+
+>> Modified qtyleft from \0\ to 0
+
+
+>> Modified prddis from \0\ to 0
+
+
+>> Modified prdsize from \\ to 
+
+
+================================================================
+
+
+
+================================================================
+
+Updated   on ''2021-06-29 10:03:18am'' by admin
+*********************************************** 
+>> Modified prdName from \\ to 
+
+
+>> Modified prdprice from \0\ to 0
+
+
+>> Modified qtyleft from \0\ to 0
+
+
+>> Modified prddis from \0\ to 0
+
+
+>> Modified prdsize from \\ to 
+
+
+================================================================
+
+
+
+================================================================
+
+Updated   on ''2021-06-29 10:03:18am'' by admin
+*********************************************** 
+>> Modified prdName from \\ to 
+
+
+>> Modified prdprice from \0\ to 0
+
+
+>> Modified qtyleft from \0\ to 0
+
+
+>> Modified prddis from \0\ to 0
+
+
+>> Modified prdsize from \\ to 
+
+
+================================================================
+
+
+
+================================================================
+
+Updated   on ''2021-06-29 10:03:18am'' by admin
+*********************************************** 
+>> Modified prdName from \\ to 
+
+
+>> Modified prdprice from \0\ to 0
+
+
+>> Modified qtyleft from \0\ to 0
+
+
+>> Modified prddis from \0\ to 0
+
+
+>> Modified prdsize from \\ to 
+
+
+================================================================
+
+
+
+================================================================
+
+Updated   on ''2021-06-29 10:03:19am'' by admin
+*********************************************** 
+>> Modified prdName from \\ to 
+
+
+>> Modified prdprice from \0\ to 0
+
+
+>> Modified qtyleft from \0\ to 0
+
+
+>> Modified prddis from \0\ to 0
+
+
+>> Modified prdsize from \\ to 
+
+
+================================================================
+
+
+
+================================================================
+
+Updated   on ''2021-06-29 10:03:19am'' by admin
+*********************************************** 
+>> Modified prdName from \\ to 
+
+
+>> Modified prdprice from \0\ to 0
+
+
+>> Modified qtyleft from \0\ to 0
+
+
+>> Modified prddis from \0\ to 0
+
+
+>> Modified prdsize from \\ to 
+
+
+================================================================
+
+
+
+================================================================
+
+Updated   on ''2021-06-29 10:03:19am'' by admin
+*********************************************** 
+>> Modified prdName from \\ to 
+
+
+>> Modified prdprice from \0\ to 0
+
+
+>> Modified qtyleft from \0\ to 0
+
+
+>> Modified prddis from \0\ to 0
+
+
+>> Modified prdsize from \\ to 
+
+
+================================================================
+
+
+
+================================================================
+
+Updated   on ''2021-06-29 10:03:19am'' by admin
+*********************************************** 
+>> Modified prdName from \\ to 
+
+
+>> Modified prdprice from \0\ to 0
+
+
+>> Modified qtyleft from \0\ to 0
+
+
+>> Modified prddis from \0\ to 0
+
+
+>> Modified prdsize from \\ to 
+
+
+================================================================
+
+
+
+================================================================
+
+Updated   on ''2021-06-29 10:03:26am'' by admin
+*********************************************** 
+>> Modified prdName from \\ to 
+
+
+>> Modified prdprice from \0\ to 0
+
+
+>> Modified qtyleft from \0\ to 0
+
+
+>> Modified prddis from \0\ to 0
+
+
+>> Modified prdsize from \\ to 
+
+
+================================================================
+
+
+
+================================================================
+
+Updated   on ''2021-06-29 10:03:26am'' by admin
+*********************************************** 
+>> Modified prdName from \\ to 
+
+
+>> Modified prdprice from \0\ to 0
+
+
+>> Modified qtyleft from \0\ to 0
+
+
+>> Modified prddis from \0\ to 0
+
+
+>> Modified prdsize from \\ to 
+
+
+================================================================
+
+
+
+================================================================
+
+Updated   on ''2021-06-29 10:03:26am'' by admin
+*********************************************** 
+>> Modified prdName from \\ to 
+
+
+>> Modified prdprice from \0\ to 0
+
+
+>> Modified qtyleft from \0\ to 0
+
+
+>> Modified prddis from \0\ to 0
+
+
+>> Modified prdsize from \\ to 
+
+
+================================================================
+
+
+
+================================================================
+
+Updated   on ''2021-06-29 10:03:50am'' by admin
+*********************************************** 
+>> Modified prdName from \\ to 
+
+
+>> Modified prdprice from \0\ to 0
+
+
+>> Modified qtyleft from \0\ to 0
+
+
+>> Modified prddis from \0\ to 0
+
+
+>> Modified prdsize from \\ to 
+
+
+================================================================
+
+
+
+================================================================
+
+Updated   on ''2021-06-29 10:03:51am'' by admin
+*********************************************** 
+>> Modified prdName from \\ to 
+
+
+>> Modified prdprice from \0\ to 0
+
+
+>> Modified qtyleft from \0\ to 0
+
+
+>> Modified prddis from \0\ to 0
+
+
+>> Modified prdsize from \\ to 
+
+
+================================================================
+
+
+
+================================================================
+
+Updated   on ''2021-06-29 10:03:52am'' by admin
+*********************************************** 
+>> Modified prdName from \\ to 
+
+
+>> Modified prdprice from \0\ to 0
+
+
+>> Modified qtyleft from \0\ to 0
+
+
+>> Modified prddis from \0\ to 0
+
+
+>> Modified prdsize from \\ to 
+
+
+================================================================
+
+
+
+================================================================
+
+Updated   on ''2021-06-29 10:03:52am'' by admin
+*********************************************** 
+>> Modified prdName from \\ to 
+
+
+>> Modified prdprice from \0\ to 0
+
+
+>> Modified qtyleft from \0\ to 0
+
+
+>> Modified prddis from \0\ to 0
+
+
+>> Modified prdsize from \\ to 
+
+
+================================================================
+
+
+
+================================================================
+
+Updated   on ''2021-06-29 10:03:52am'' by admin
+*********************************************** 
+>> Modified prdName from \\ to 
+
+
+>> Modified prdprice from \0\ to 0
+
+
+>> Modified qtyleft from \0\ to 0
+
+
+>> Modified prddis from \0\ to 0
+
+
+>> Modified prdsize from \\ to 
+
+
+================================================================
+
+
+
+================================================================
+
+Updated   on ''2021-06-29 10:03:52am'' by admin
+*********************************************** 
+>> Modified prdName from \\ to 
+
+
+>> Modified prdprice from \0\ to 0
+
+
+>> Modified qtyleft from \0\ to 0
+
+
+>> Modified prddis from \0\ to 0
+
+
+>> Modified prdsize from \\ to 
+
+
+================================================================
+
+
+
+================================================================
+
+Updated   on ''2021-06-29 10:03:53am'' by admin
+*********************************************** 
+>> Modified prdName from \\ to 
+
+
+>> Modified prdprice from \0\ to 0
+
+
+>> Modified qtyleft from \0\ to 0
+
+
+>> Modified prddis from \0\ to 0
+
+
+>> Modified prdsize from \\ to 
+
+
+================================================================
+
+
+
+================================================================
+
+Updated   on ''2021-06-29 10:03:53am'' by admin
+*********************************************** 
+>> Modified prdName from \\ to 
+
+
+>> Modified prdprice from \0\ to 0
+
+
+>> Modified qtyleft from \0\ to 0
+
+
+>> Modified prddis from \0\ to 0
+
+
+>> Modified prdsize from \\ to 
+
+
+================================================================
+
+
+
+================================================================
+
+Updated   on ''2021-06-29 10:03:53am'' by admin
+*********************************************** 
+>> Modified prdName from \\ to 
+
+
+>> Modified prdprice from \0\ to 0
+
+
+>> Modified qtyleft from \0\ to 0
+
+
+>> Modified prddis from \0\ to 0
+
+
+>> Modified prdsize from \\ to 
+
+
+================================================================
+
+
+
+================================================================
+
+Updated   on ''2021-06-29 10:03:53am'' by admin
+*********************************************** 
+>> Modified prdName from \\ to 
+
+
+>> Modified prdprice from \0\ to 0
+
+
+>> Modified qtyleft from \0\ to 0
+
+
+>> Modified prddis from \0\ to 0
+
+
+>> Modified prdsize from \\ to 
+
+
+================================================================
+
+
+
+================================================================
+
+Updated   on ''2021-06-29 10:03:53am'' by admin
+*********************************************** 
+>> Modified prdName from \\ to 
+
+
+>> Modified prdprice from \0\ to 0
+
+
+>> Modified qtyleft from \0\ to 0
+
+
+>> Modified prddis from \0\ to 0
+
+
+>> Modified prdsize from \\ to 
+
+
+================================================================
+
+
+
+================================================================
+
+Updated   on ''2021-06-29 10:03:54am'' by admin
+*********************************************** 
+>> Modified prdName from \\ to 
+
+
+>> Modified prdprice from \0\ to 0
+
+
+>> Modified qtyleft from \0\ to 0
+
+
+>> Modified prddis from \0\ to 0
+
+
+>> Modified prdsize from \\ to 
+
+
+================================================================
+
+
+
+================================================================
+
+Updated   on ''2021-06-29 10:03:54am'' by admin
+*********************************************** 
+>> Modified prdName from \\ to 
+
+
+>> Modified prdprice from \0\ to 0
+
+
+>> Modified qtyleft from \0\ to 0
+
+
+>> Modified prddis from \0\ to 0
+
+
+>> Modified prdsize from \\ to 
+
+
+================================================================
+
+
+
+================================================================
+
+Updated   on ''2021-06-29 10:03:54am'' by admin
+*********************************************** 
+>> Modified prdName from \\ to 
+
+
+>> Modified prdprice from \0\ to 0
+
+
+>> Modified qtyleft from \0\ to 0
+
+
+>> Modified prddis from \0\ to 0
+
+
+>> Modified prdsize from \\ to 
+
+
+================================================================
+
+
+
+================================================================
+
+Updated   on ''2021-06-29 10:03:55am'' by admin
+*********************************************** 
+>> Modified prdName from \\ to 
+
+
+>> Modified prdprice from \0\ to 0
+
+
+>> Modified qtyleft from \0\ to 0
+
+
+>> Modified prddis from \0\ to 0
+
+
+>> Modified prdsize from \\ to 
+
+
+================================================================
+
+
+
+================================================================
+
+Updated   on ''2021-06-29 10:04:18am'' by admin
+*********************************************** 
+>> Modified prdName from \\ to 
+
+
+>> Modified prdprice from \0\ to 0
+
+
+>> Modified qtyleft from \0\ to 0
+
+
+>> Modified prddis from \0\ to 0
+
+
+>> Modified prdsize from \\ to 
+
+
+================================================================
+
+
+
+================================================================
+
+Updated   on ''2021-06-29 10:04:19am'' by admin
+*********************************************** 
+>> Modified prdName from \\ to 
+
+
+>> Modified prdprice from \0\ to 0
+
+
+>> Modified qtyleft from \0\ to 0
+
+
+>> Modified prddis from \0\ to 0
+
+
+>> Modified prdsize from \\ to 
+
+
+================================================================
+
+
+
+================================================================
+
+Updated   on ''2021-06-29 10:04:20am'' by admin
+*********************************************** 
+>> Modified prdName from \\ to 
+
+
+>> Modified prdprice from \0\ to 0
+
+
+>> Modified qtyleft from \0\ to 0
+
+
+>> Modified prddis from \0\ to 0
+
+
+>> Modified prdsize from \\ to 
+
+
+================================================================
+
+
+
+================================================================
+
+Updated   on ''2021-06-29 10:04:20am'' by admin
+*********************************************** 
+>> Modified prdName from \\ to 
+
+
+>> Modified prdprice from \0\ to 0
+
+
+>> Modified qtyleft from \0\ to 0
+
+
+>> Modified prddis from \0\ to 0
+
+
+>> Modified prdsize from \\ to 
+
+
+================================================================
+
+
+
+================================================================
+
+Updated   on ''2021-06-29 10:04:20am'' by admin
+*********************************************** 
+>> Modified prdName from \\ to 
+
+
+>> Modified prdprice from \0\ to 0
+
+
+>> Modified qtyleft from \0\ to 0
+
+
+>> Modified prddis from \0\ to 0
+
+
+>> Modified prdsize from \\ to 
+
+
+================================================================
+
+
+
+================================================================
+
+Updated   on ''2021-06-29 10:04:20am'' by admin
+*********************************************** 
+>> Modified prdName from \\ to 
+
+
+>> Modified prdprice from \0\ to 0
+
+
+>> Modified qtyleft from \0\ to 0
+
+
+>> Modified prddis from \0\ to 0
+
+
+>> Modified prdsize from \\ to 
+
+
+================================================================
+
+
+
+================================================================
+
+Updated   on ''2021-06-29 10:04:21am'' by admin
+*********************************************** 
+>> Modified prdName from \\ to 
+
+
+>> Modified prdprice from \0\ to 0
+
+
+>> Modified qtyleft from \0\ to 0
+
+
+>> Modified prddis from \0\ to 0
+
+
+>> Modified prdsize from \\ to 
+
+
+================================================================
+
+
+
+================================================================
+
+Updated   on ''2021-06-29 10:04:41am'' by admin
+*********************************************** 
+>> Modified prdprice from \0\ to 0
+
+
+>> Modified qtyleft from \0\ to 0
+
+
+>> Modified prddis from \0\ to 0
+
+
+>> Modified prdsize from \\ to 
+
+
+================================================================
+
+
+
+================================================================
+
+Updated   on ''2021-06-29 10:04:47am'' by admin
+*********************************************** 
+>> Modified prdprice from \0\ to 0
+
+
+>> Modified qtyleft from \0\ to 0
+
+
+>> Modified prddis from \0\ to 0
+
+
+>> Modified prdsize from \\ to 
+
+
+================================================================
+
+
+
+================================================================
+
+Updated   on ''2021-06-29 10:05:44am'' by admin
+*********************************************** 
+>> Modified prdprice from \0\ to 0
+
+
+>> Modified qtyleft from \0\ to 0
+
+
+>> Modified prddis from \0\ to 0
+
+
+>> Modified prdsize from \\ to 
+
+
+================================================================
+
+
+
+================================================================
+
+Updated   on ''2021-06-29 10:05:45am'' by admin
+*********************************************** 
+>> Modified prdprice from \0\ to 0
+
+
+>> Modified qtyleft from \0\ to 0
+
+
+>> Modified prddis from \0\ to 0
+
+
+>> Modified prdsize from \\ to 
+
+
+================================================================
+
+
+
+================================================================
+
+Updated   on ''2021-06-29 10:05:45am'' by admin
+*********************************************** 
+>> Modified prdprice from \0\ to 0
+
+
+>> Modified qtyleft from \0\ to 0
+
+
+>> Modified prddis from \0\ to 0
+
+
+>> Modified prdsize from \\ to 
+
+
+================================================================
+
+
+
+================================================================
+
+Updated   on ''2021-06-29 10:05:46am'' by admin
+*********************************************** 
+>> Modified prdprice from \0\ to 0
+
+
+>> Modified qtyleft from \0\ to 0
+
+
+>> Modified prddis from \0\ to 0
+
+
+>> Modified prdsize from \\ to 
+
+
+================================================================
+
+
+
+================================================================
+
+Updated   on ''2021-06-29 10:05:50am'' by admin
+*********************************************** 
+>> Modified prdName from \\ to ridox channel
+
+
+>> Modified prdprice from \0\ to 0
+
+
+>> Modified qtyleft from \0\ to 0
+
+
+>> Modified prddis from \0\ to 0
+
+
+>> Modified prdsize from \\ to 
+
+
+================================================================
+
+
+
+================================================================
+
+Updated  ridox channel on ''2021-06-29 10:05:50am'' by admin
+*********************************************** 
+>> Modified prdName from \ridox channel\ to ridox channel
+
+
+>> Modified prdprice from \0\ to 0
+
+
+>> Modified qtyleft from \0\ to 0
+
+
+>> Modified prddis from \0\ to 0
+
+
+>> Modified prdsize from \\ to 
+
+
+================================================================
+
+
+
+================================================================
+
+Updated  ridox channel on ''2021-06-29 10:08:32am'' by admin
+*********************************************** 
+>> Modified qtyleft from \0\ to 0
+
+
+>> Modified prddis from \0\ to 0
+
+
+================================================================
+
+
+
+================================================================
+
+Updated  ridox channel on ''2021-06-29 10:08:44am'' by admin
+*********************************************** 
+>> Modified qtyleft from \0\ to 0
+
+
+>> Modified prddis from \0\ to 0
+
+
+================================================================
+
+
+
+================================================================
+
+Updated  ridox channel on ''2021-06-29 10:08:53am'' by admin
+*********************************************** 
+>> Modified prdName from \ridox channel\ to 01m
+
+
+>> Modified qtyleft from \0\ to 0
+
+
+>> Modified prddis from \0\ to 0
+
+
+================================================================
+
+
+
+================================================================
+
+Updated  01m on ''2021-06-29 10:09:17am'' by admin
+*********************************************** 
+>> Modified prdName from \01m\ to 01m
+
+
+>> Modified prdprice from \0\ to 01000
+
+
+>> Modified qtyleft from \0\ to 12
+
+
+>> Modified prddis from \0\ to 10
+
+
+>> Modified prdsize from \\ to 10
+
+
+================================================================
+
+
+
+================================================================
+
+Updated  Jump suit on ''2021-06-29 08:03:59pm'' by admin
+*********************************************** 
+>> Modified prdName from \Jump suit\ to iFEOMA
+
+
+>> Modified prdprice from \1200\ to 1200
+
+
+>> Modified qtyleft from \21\ to 21
+
+
+>> Modified prddis from \2\ to 2
+
+
+>> Modified prdsize from \2\ to 2
+
+
+================================================================
+
+
+
+================================================================
+
+Updated  iFEOMA on ''2021-06-29 08:06:24pm'' by admin
+*********************************************** 
+>> Modified prdName from \iFEOMA\ to iFEOMA
+
+
+>> Modified prdprice from \1200\ to 1200
+
+
+>> Modified qtyleft from \21\ to 21
+
+
+>> Modified prddis from \2\ to 7
+
+
+>> Modified prdsize from \2\ to 2
+
+
+================================================================
+
+
+
+================================================================
+
+Updated  iFEOMA on ''2021-06-29 08:06:41pm'' by admin
+*********************************************** 
+>> Modified prdName from \iFEOMA\ to iFEOMA
+
+
+>> Modified prdprice from \1200\ to 1000
+
+
+>> Modified qtyleft from \21\ to 21
+
+
+>> Modified prddis from \7\ to 7
+
+
+>> Modified prdsize from \2\ to 2
+
+
+================================================================
+
+
+
+================================================================
+
+Updated  iFEOMA on ''2021-06-29 08:30:54pm'' by admin
+*********************************************** 
+>> Modified prdName from \iFEOMA\ to iFEOMA
+
+
+>> Modified prdprice from \1000\ to 1000
+
+
+>> Modified qtyleft from \21\ to 21
+
+
+>> Modified prddis from \7\ to 7
+
+
+>> Modified prdsize from \2\ to 2
+
+
+================================================================
+
+
+
+================================================================
+
+Updated  iFEOMA on ''2021-06-29 08:30:55pm'' by admin
+*********************************************** 
+>> Modified prdName from \iFEOMA\ to iFEOMA
+
+
+>> Modified prdprice from \1000\ to 1000
+
+
+>> Modified qtyleft from \21\ to 21
+
+
+>> Modified prddis from \7\ to 7
+
+
+>> Modified prdsize from \2\ to 2
+
+
+================================================================
+
+
+
+================================================================
+
+Updated  iFEOMA on ''2021-06-29 08:30:55pm'' by admin
+*********************************************** 
+>> Modified prdName from \iFEOMA\ to iFEOMA
+
+
+>> Modified prdprice from \1000\ to 1000
+
+
+>> Modified qtyleft from \21\ to 21
+
+
+>> Modified prddis from \7\ to 7
+
+
+>> Modified prdsize from \2\ to 2
+
+
+================================================================
+
+
+
+================================================================
+
+Updated  iFEOMA on ''2021-06-29 08:30:55pm'' by admin
+*********************************************** 
+>> Modified prdName from \iFEOMA\ to iFEOMA
+
+
+>> Modified prdprice from \1000\ to 1000
+
+
+>> Modified qtyleft from \21\ to 21
+
+
+>> Modified prddis from \7\ to 7
+
+
+>> Modified prdsize from \2\ to 2
+
+
+================================================================
+
+
+
+================================================================
+
+Updated  iFEOMA on ''2021-06-29 08:30:55pm'' by admin
+*********************************************** 
+>> Modified prdName from \iFEOMA\ to iFEOMA
+
+
+>> Modified prdprice from \1000\ to 1000
+
+
+>> Modified qtyleft from \21\ to 21
+
+
+>> Modified prddis from \7\ to 7
+
+
+>> Modified prdsize from \2\ to 2
+
+
+================================================================
+
+
+
+================================================================
+
+Updated  iFEOMA on ''2021-06-29 08:30:55pm'' by admin
+*********************************************** 
+>> Modified prdName from \iFEOMA\ to iFEOMA
+
+
+>> Modified prdprice from \1000\ to 1000
+
+
+>> Modified qtyleft from \21\ to 21
+
+
+>> Modified prddis from \7\ to 7
+
+
+>> Modified prdsize from \2\ to 2
+
+
+================================================================
+
+
+
+================================================================
+
+Updated  iFEOMA on ''2021-06-29 08:30:56pm'' by admin
+*********************************************** 
+>> Modified prdName from \iFEOMA\ to iFEOMA
+
+
+>> Modified prdprice from \1000\ to 1000
+
+
+>> Modified qtyleft from \21\ to 21
+
+
+>> Modified prddis from \7\ to 7
+
+
+>> Modified prdsize from \2\ to 2
+
+
+================================================================
+
+
+
+================================================================
+
+Updated  iFEOMA on ''2021-06-29 08:30:56pm'' by admin
+*********************************************** 
+>> Modified prdName from \iFEOMA\ to iFEOMA
+
+
+>> Modified prdprice from \1000\ to 1000
+
+
+>> Modified qtyleft from \21\ to 21
+
+
+>> Modified prddis from \7\ to 7
+
+
+>> Modified prdsize from \2\ to 2
+
+
+================================================================
+
+
+
+================================================================
+
+Updated  iFEOMA on ''2021-06-29 08:30:56pm'' by admin
+*********************************************** 
+>> Modified prdName from \iFEOMA\ to iFEOMA
+
+
+>> Modified prdprice from \1000\ to 1000
+
+
+>> Modified qtyleft from \21\ to 21
+
+
+>> Modified prddis from \7\ to 7
+
+
+>> Modified prdsize from \2\ to 2
+
+
+================================================================
+
+
+
+================================================================
+
+Updated  iFEOMA on ''2021-06-29 08:30:56pm'' by admin
+*********************************************** 
+>> Modified prdName from \iFEOMA\ to iFEOMA
+
+
+>> Modified prdprice from \1000\ to 1000
+
+
+>> Modified qtyleft from \21\ to 21
+
+
+>> Modified prddis from \7\ to 7
+
+
+>> Modified prdsize from \2\ to 2
+
+
+================================================================
+
+
+
+================================================================
+
+Updated  iFEOMA on ''2021-06-29 08:30:57pm'' by admin
+*********************************************** 
+>> Modified prdName from \iFEOMA\ to iFEOMA
+
+
+>> Modified prdprice from \1000\ to 1000
+
+
+>> Modified qtyleft from \21\ to 21
+
+
+>> Modified prddis from \7\ to 7
+
+
+>> Modified prdsize from \2\ to 2
+
+
+================================================================
+
+
+
+================================================================
+
+Updated  iFEOMA on ''2021-06-29 08:30:57pm'' by admin
+*********************************************** 
+>> Modified prdName from \iFEOMA\ to iFEOMA
+
+
+>> Modified prdprice from \1000\ to 1000
+
+
+>> Modified qtyleft from \21\ to 21
+
+
+>> Modified prddis from \7\ to 7
+
+
+>> Modified prdsize from \2\ to 2
+
+
+================================================================
+
+
+
+================================================================
+
+Updated  iFEOMA on ''2021-06-29 08:30:57pm'' by admin
+*********************************************** 
+>> Modified prdName from \iFEOMA\ to iFEOMA
+
+
+>> Modified prdprice from \1000\ to 1000
+
+
+>> Modified qtyleft from \21\ to 21
+
+
+>> Modified prddis from \7\ to 7
+
+
+>> Modified prdsize from \2\ to 2
+
+
+================================================================
+
+
+
+================================================================
+
+Updated  iFEOMA on ''2021-06-29 08:30:57pm'' by admin
+*********************************************** 
+>> Modified prdName from \iFEOMA\ to iFEOMA
+
+
+>> Modified prdprice from \1000\ to 1000
+
+
+>> Modified qtyleft from \21\ to 21
+
+
+>> Modified prddis from \7\ to 7
+
+
+>> Modified prdsize from \2\ to 2
+
+
+================================================================
+
+
+
+================================================================
+
+Updated  iFEOMA on ''2021-06-29 08:30:57pm'' by admin
+*********************************************** 
+>> Modified prdName from \iFEOMA\ to iFEOMA
+
+
+>> Modified prdprice from \1000\ to 1000
+
+
+>> Modified qtyleft from \21\ to 21
+
+
+>> Modified prddis from \7\ to 7
+
+
+>> Modified prdsize from \2\ to 2
+
+
+================================================================
+
+
+
+================================================================
+
+Updated  iFEOMA on ''2021-06-29 08:30:57pm'' by admin
+*********************************************** 
+>> Modified prdName from \iFEOMA\ to iFEOMA
+
+
+>> Modified prdprice from \1000\ to 1000
+
+
+>> Modified qtyleft from \21\ to 21
+
+
+>> Modified prddis from \7\ to 7
+
+
+>> Modified prdsize from \2\ to 2
+
+
+================================================================
+
+
+
+================================================================
+
+Updated  iFEOMA on ''2021-06-29 08:30:58pm'' by admin
+*********************************************** 
+>> Modified prdName from \iFEOMA\ to iFEOMA
+
+
+>> Modified prdprice from \1000\ to 1000
+
+
+>> Modified qtyleft from \21\ to 21
+
+
+>> Modified prddis from \7\ to 7
+
+
+>> Modified prdsize from \2\ to 2
+
+
+================================================================
+
+
+
+================================================================
+
+Updated  iFEOMA on ''2021-06-29 08:30:58pm'' by admin
+*********************************************** 
+>> Modified prdName from \iFEOMA\ to iFEOMA
+
+
+>> Modified prdprice from \1000\ to 1000
+
+
+>> Modified qtyleft from \21\ to 21
+
+
+>> Modified prddis from \7\ to 7
+
+
+>> Modified prdsize from \2\ to 2
+
+
+================================================================
+
+
+
+================================================================
+
+Updated  iFEOMA on ''2021-07-04 06:34:24pm'' by admin
+*********************************************** 
+>> Modified prdName from \iFEOMA\ to Bugus
+
+
+>> Modified prdprice from \1000\ to 1000
+
+
+>> Modified qtyleft from \21\ to 21
+
+
+>> Modified prddis from \7\ to 7
+
+
+>> Modified prdsize from \2\ to 2
+
+
+================================================================
+
+
+
+================================================================
+
+Updated  Bugus on ''2021-07-04 06:35:40pm'' by admin
+*********************************************** 
+>> Modified prdName from \Bugus\ to Bugus
+
+
+>> Modified prdprice from \1000\ to 1000
+
+
+>> Modified qtyleft from \21\ to 34
+
+
+>> Modified prddis from \7\ to 14
+
+
+>> Modified prdsize from \2\ to 2
+
+
+================================================================
+
+
+
+================================================================
+
+Updated  Bugus on ''2021-07-07 09:01:33pm'' by Chibueze
+*********************************************** 
+>> Modified prdName from \Bugus\ to Bugus
+
+
+>> Modified prdprice from \1000\ to 1200
+
+
+>> Modified qtyleft from \34\ to 34
+
+
+>> Modified prddis from \14\ to 10
+
+
+>> Modified prdsize from \2\ to 2
+
+
+================================================================
+
+
+
+================================================================
+
+Updated  Bugus on ''2021-08-22 12:42:01pm'' by admin
+*********************************************** 
+>> Modified prdName from \Bugus\ to chifer
+
+
+>> Modified prdprice from \1200\ to 1200
+
+
+>> Modified qtyleft from \34\ to 34
+
+
+>> Modified prddis from \10\ to 10
+
+
+>> Modified prdsize from \2\ to 2
+
+
+================================================================
+
+
+

@@ -1,0 +1,141 @@
+.header-main{
+  height: 60px;
+  color: green;
+}
+
+.admin-main-body{
+  top: 60px;
+}
+.side-nav{
+  position: fixed;
+  display: inline-block;
+  height: 100%;
+  background-color: black;
+  color:#FBB917;
+  top: 60px;
+  max-width: 270px;
+  width: 40%;
+  text-align: center;
+  font-size: 38px;
+  padding-top: 30px;
+  line-height: 50px;
+
+}
+
+.sm_iconbody{
+  position: absolute;
+  top: 20px;
+  width: 50px;
+  height: 50px;
+  left: 20px;
+  padding: 5px;
+  background-color: transparent;
+
+
+  border: solid 2px #FBB917;
+
+}
+
+.shop-upload{
+  width: 100%;
+  text-align:left;
+  
+
+
+
+
+
+}
+
+.text-info{
+  display: block;
+}
+
+
+.shop-upload input, .shop-upload select{
+  width: 300px;
+  max-width: 400px;
+  display: inline-block;
+  padding: 6px 0px 4px 7px;
+  color:#FBB917;
+  font-size:25px;
+  margin: 10px 0px;
+  border: none;
+  border-bottom: solid 3px #FBB917;
+
+
+}
+.shop-upload button{
+  position:relative;
+  padding:6px;
+  color:#FBB917;
+  font-size:25px;
+  margin: 10px 0px;
+  border: solid 3px #FBB917;
+
+}
+
+.shop-upload button:hover{
+  border: solid 3px #FBB917;
+  background: #FBB917;
+  color: black;
+}
+
+.shop-upload input::placeholder{
+
+  color:#FBB917;
+
+
+}
+
+.prd-info-txt{
+  font-size: 35px;
+  display: inline-block;
+  border: solid 3px #ffb917;
+  padding: 6px;
+  margin: 5px;
+
+}
+.section-header{
+  background-color: #FBB917;
+  display: inline-block;
+  width: 100%;
+  height:80px;
+  font-size: 1.5rem;
+
+}
+
+.side-nav li i{
+  display: inline-block;
+  max-width: 30px;
+  max-height: 30px;
+  margin-right: 1rem;
+}
+.side-nav li a{
+  display: inline-block;
+  text-decoration: none;
+  color: #CFC5C5;
+  font-size: 40px;
+}
+.side-nav li{
+  display: flex;
+  min-width: 80%;
+  max-width: 85%; 
+  padding: 10px 6px;
+  text-align: right;
+  justify-content: flex-end;
+  border-radius: 0px 20px 20px 0;
+  margin-top: 8px;
+
+
+}
+
+.side-nav li:hover, .side-nav li:active {
+  background: linear-gradient(#B98419, #2C2930);
+}
+
+.side-nav ul{
+  width: 100%;
+  line-height: 5rem;
+
+}

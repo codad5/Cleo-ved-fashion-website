@@ -1,0 +1,186 @@
+@media screen and (max-width:980px) {
+
+
+
+*{
+  margin: 0;
+  padding: 0;
+
+}
+html{
+	scroll-behavior: smooth;
+}
+
+body{
+  width: 100%;
+  overflow-x: hidden;
+  margin:0;
+  font-family: 'Akaya Telivigala', cursive;
+}
+
+
+
+header{
+  
+  height:100px;
+  position:fixed;
+  background-color:black;
+  Z-index:5;
+  text-align: center;
+
+}
+
+header a{
+	color:#FBB917;
+
+}
+
+header a button{
+	background-color:transparent;
+	color:#FBB917;
+	padding: 2px 10px;
+
+	border: solid 0px #FBB917;
+	border-right:solid 5px #FBB917;
+	margin-top:20px;
+	height:60px;
+
+ font-family: 'Akaya Telivigala', cursive;
+	font-weight:bold;
+  padding: 10px;
+
+}
+
+.hdtxt{
+	color:#FBB917;
+	top:15%;
+
+	font-family: 'Dancing Script', cursive;
+	font-size:40px;
+
+}
+
+.hdtxt2{
+	color:#FBB917;
+	top:15%;
+
+	font-size:25px;
+
+}
+
+
+.hdtxt3{
+	color:#FBB917;
+	top:15%;
+
+	font-size:15px;
+
+}
+
+
+.mainbody{
+	background-color: brown;
+	width: 100%;
+	margin: 0;
+
+}
+
+
+.welbody{
+	width:100%;
+	height:1650px;
+	background:linear-gradient(rgba(0,0,0,0.5),#FBB917),url("../img/bg1.png");
+	background-repeat:no-repeat;
+	background-position: center ;
+	background-size:cover;
+	padding-top:250px;
+}
+
+.abtbody{
+	width:100%;
+	height:1650px;
+	background:linear-gradient(rgba(0,0,0,0.5),#FBB917),url("../img/bg2.png");
+	background-repeat:no-repeat;
+	background-position: center;
+	background-size:cover;
+	padding-top:25%;
+}
+
+
+.abttxt{
+	border:solid 2px #FBB917;
+	background-color:transparent;
+	font-size:20px;
+	text-align:left;
+	color:#FBB917;
+	width:80%;
+	margin:6% 0;
+	height:1300px;
+	padding:40px;
+	font-weight:bold;
+	word-spacing: 15px;
+}
+
+
+.galbody{
+	width:100%;
+	height:1650px;
+	background:linear-gradient(rgba(0,0,0,0.5),#FBB917),url("../img/bg3.png");
+	background-repeat:no-repeat;
+	background-position: center;
+	background-size:cover;
+	padding-top:25%;
+}
+
+
+.galimg img{
+
+	opacity:80%;
+	margin-top:100px;
+}
+
+.galimg{
+	margin-top:100px;
+
+}
+
+
+.whybody{
+	width:100%;
+	height:1650px;
+	background:linear-gradient(rgba(0,0,0,0.5),#FBB917),url("../img/bg2.png");
+	background-repeat:no-repeat;
+	background-position: center;
+	background-size:cover;
+	padding-top:25%;
+}
+
+.cntbody{
+	width:100%;
+	height:1650px;
+	background:linear-gradient(rgba(0,0,0,0.5),#FBB917),url("../img/bg1.png");
+	background-repeat:no-repeat;
+	background-position: center;
+	background-size:cover;
+	padding-top:25%;
+}
+
+
+#la{
+		border-right:solid 0px #FBB917;
+}
+
+
+.but{
+	background-color:transparent;
+	color:#FBB917;
+	width:500px;
+	height:250px;
+	padding:50px;
+	font-size:40px;
+	border:solid 3px #FBB917;
+	border-radius:140px;
+	transition-property:all;
+	transition-duration:.5s;
+
+}

@@ -1,0 +1,191 @@
+*{
+	margin:0;
+	padding:0;
+
+}
+ #slider{
+
+ 	width:100%;
+ 	margin:0;
+ 	padding:0;
+ 	overflow:hidden;
+ 	margin-top:70px;
+ 	height:600px;
+ 	color:#FBB917;
+ 	overflow-x:scroll;
+	transform: translateY(-100px);
+
+}
+	/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background:linear-gradient(rgba(0,0,0,0.5),rgba(220,115,30,0.5));
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+
+#slider figure {
+	width:500%;
+	position:relative;
+	overflow:hidden;
+	margin:0;
+	height:100%;
+	animation:slider 40s infinite;
+
+}
+
+#slider figure .imgslide{
+	margin:0;
+	width:20%;
+	height:100%;
+	float:left;
+
+	background-repeat:no-repeat;
+	background-position: center ;
+	background-size:cover;
+
+}
+
+#imgslide1{
+		background:linear-gradient(rgba(0,0,0,0.5),rgba(220,115,30,0.5)),url("../img/slider1.png");
+}
+#imgslide2{
+		background:linear-gradient(rgba(0,0,0,0.5),rgba(220,115,30,0.5)),url("../img/slider2.png");
+}
+
+#imgslide3{
+		background:linear-gradient(rgba(0,0,0,0.5),rgba(220,115,30,0.5)),url("../img/slider3.png");
+}
+
+#imgslide4{
+background:linear-gradient(rgba(0,0,0,0.5),rgba(220,115,30,0.5)),url("../img/slider4.png");
+}
+
+#imgslide5{
+		background:linear-gradient(rgba(0,0,0,0.5),rgba(220,115,30,0.5)),url("../img/slider5.png");
+}
+
+
+
+@keyframes slider{
+	0%{
+		left:0%;
+
+	}
+	10%{
+	  left:0%;
+	}
+
+	20%{
+		left:-100%;
+	}
+
+	30%{
+		left:-100%;
+	}
+	40%{
+		left:-200%;
+	}
+	50%{
+		left:-200%;
+	}
+
+	60%{
+		left:-300%;
+	}
+	70%{
+		left:-300%;
+	}
+
+
+	80%{
+			left:-400%;
+		}
+		90%{
+			left:-400%;
+		}
+
+		100%{
+			left:0%;
+
+		}
+}
+
+
+
+	.slidebut{
+		position: relative;
+		width:auto;
+
+		background-color:transparent;
+		color:#FBB917;
+		border:groove 4px #FBB917;
+		border-radius:90px;
+		font-size:45px;
+		padding:10px;
+		top:30px;
+	}
+
+	.slidebut:hover{
+	  background-color:#FBB917;
+	  color:black;
+	}
+
+	.slider1txt{
+	  margin-top:100px;
+	  font-size:80px;
+	}
+	.slider2txt{
+	  font-size:50px;
+	  font-weight:bold;
+	  margin-top:70px;
+	  font-family: 'Akaya Telivigala', cursive;
+	}
+
+	.slider2txt h1{
+	  text-decoration:overline;
+	  text-indent: 20px;
+	  font-size:70px;
+
+	}
+
+	.slider2txt h2{
+	  text-align:right;
+	  padding-top:30px;
+font-family: 'Akaya Telivigala', cursive;
+	}
+
+	.slider3txt{
+		margin-top:170px;
+		font-size:60px;
+		font-weight:bold;
+		font-family: 'Dancing Script', cursive;
+	}
+
+
+	.slider4txt{
+	  font-size:70px;
+
+	  margin-top:70px;
+	}
+
+
+	.slider5txt{
+	  float:right;
+	  text-align:right;
+	  font-size:60px;
+	  margin-top:80px;
+	}

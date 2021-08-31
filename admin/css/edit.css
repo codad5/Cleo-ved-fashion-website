@@ -1,0 +1,12 @@
+.Product-show{
+    display: flex;
+    position: absolute;
+    left: 0;
+    top: 0;
+
+
+}
+
+.Product-show img{
+  min-width: 250px;
+}
